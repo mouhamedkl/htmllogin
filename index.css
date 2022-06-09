@@ -1,0 +1,45 @@
+body{
+    /*background-image: url("./banner.jpg");*/
+    background-color: #D6EDFF;
+}
+fieldset.set{
+    margin-top: 2%;
+    /*background-image: url("./party.jpg");*/
+    background-color: #D6EDFF;
+    margin-left: 35%;
+    width: 300px;
+    height: 550px;
+    font-size: large;
+   box-shadow:black;
+   border-radius: 30px;
+   box-shadow: 6px 6px 6px  teal,-6px  6px 6px teal;
+   text-shadow: 1px 1px #581845;
+}
+#labelname{
+    color: #020a76 ;
+    font-size: large;
+
+}
+input.btn{
+width: 100%;
+height: 20px;
+}
+#btnk{
+    color: rgb(244, 234, 234);
+    width: 200px;
+    height: 30px;
+    margin-top: 25px;
+    background-color: rgb(16, 55, 173);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 1px 5px 10px gray,1px 1px 1px  gainsboro;
+    border-radius: 25px;
+}
+#a{
+    color: #020a76;
+    margin-left: 85px;
+}
+#a:hover(){/* color lien si j ai click*/
+    color: #581845;
+
+}
